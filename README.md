@@ -1,4 +1,4 @@
-# Epistemic uncertainty
+### Using Actively-learned Deep kernels to estimate epistemic uncertainty
 
 Active_learning and DKL (Deep Kernel learning)folder contains following structure for code base:<br> <br>
 File description:
