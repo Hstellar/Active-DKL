@@ -5,7 +5,7 @@ File description:
 features.py contains function for feature engineering <br>
 run_exp.py contains code for training model, validation and testing <br>
 model.py contains code for defining model architecture <br>
- Run .ipynb files to reproduce the code. Code will be open sourced once acceptance deadline is passed.<br>
+ Run .ipynb files to reproduce the code.<br>
 To install dependencies run requirements.txt file to create environment. <br>
 Python 3.8.10, pytorch 2.0.0+cu118, recent version gpytorch is used. <br> <br>
 
